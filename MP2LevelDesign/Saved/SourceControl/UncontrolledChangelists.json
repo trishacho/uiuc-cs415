@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/MyLevel.umap",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/GameModeStart.uasset"
+			]
+		}
+	]
+}
