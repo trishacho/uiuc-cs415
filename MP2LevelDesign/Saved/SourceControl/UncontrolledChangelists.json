@@ -7,6 +7,13 @@
 			"files": [
 				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/MyLevel.umap",
 				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/ScoreHUD.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/HealthHUD.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/GameOverHUD.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/HealthPack.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/HealthPackSpawn.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/GameMode.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/MyGameMode.uasset",
 				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/GameModeStart.uasset"
 			]
 		}
