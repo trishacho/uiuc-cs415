@@ -7,13 +7,22 @@
 			"files": [
 				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/MyLevel.umap",
 				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
-				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/ScoreHUD.uasset",
-				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/HealthHUD.uasset",
 				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/GameOverHUD.uasset",
 				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/HealthPack.uasset",
 				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/HealthPackSpawn.uasset",
-				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/GameMode.uasset",
 				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/MyGameMode.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/ScoreAndHealthHUD.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/CollectibleSpawn.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/Pursuer_AIController.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/BP_Pursuer.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/EAIState.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/WBP_Restart.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/HUD.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/ScoreHUD.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/HealthHUD.uasset",
+				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/GameMode.uasset",
 				"/Users/trisha/cs415/uiuc-cs415/MP2LevelDesign/Content/GameModeStart.uasset"
 			]
 		}
